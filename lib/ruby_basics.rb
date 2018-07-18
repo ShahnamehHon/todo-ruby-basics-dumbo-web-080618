@@ -14,7 +14,7 @@ end
 argue("I'm right and you are wrong!")
 
 def greeting(greeting, name)
-
+greeting = "Hi there, "
 end
 
 def return_a_value
