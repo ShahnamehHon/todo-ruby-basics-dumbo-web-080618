@@ -11,9 +11,9 @@ end
 def argue(phrase)
    argue = phrase
 end
+argue("I'm right and you are wrong!")
 
-
-def greeting
+def greeting(greeting, name)
 
 end
 
