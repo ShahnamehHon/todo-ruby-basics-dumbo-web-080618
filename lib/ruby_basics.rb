@@ -29,3 +29,4 @@ end
 def pizza_party(say="cheese")
 pizza_party = say
 end
+pizza_party("pepperoni")
